@@ -15,43 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gugudan.c">
+    <ClCompile Include="EX3-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="EX2-4.c">
+    <ClCompile Include="EX3-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="EX02-5.c">
+    <ClCompile Include="EX3-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="EX2-6.c">
+    <ClCompile Include="EX3-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="EX2-7.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-8.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-9.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-10.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-11.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-12.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-13.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-14.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX2-15.c">
+    <ClCompile Include="EX3-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
