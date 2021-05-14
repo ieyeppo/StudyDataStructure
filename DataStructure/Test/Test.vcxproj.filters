@@ -15,19 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EX4-1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX4-2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX4-3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX4-4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX4-5.c">
+    <ClCompile Include="Node.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
